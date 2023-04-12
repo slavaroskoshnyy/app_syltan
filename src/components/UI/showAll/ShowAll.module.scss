@@ -1,0 +1,16 @@
+.wrapper {
+   margin-top: 15px;
+   display: flex;
+   align-items: center;
+   font-weight: 500;
+   font-size: 12px;
+}
+
+.triangle__down {
+   margin: 5px 0px 0px 5px;
+   width: 0;
+   height: 0;
+   border-left: 3.5px solid transparent;
+   border-right: 3.5px solid transparent;
+   border-top: 7px solid #3F4E65;
+}

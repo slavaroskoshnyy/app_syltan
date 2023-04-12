@@ -1,0 +1,115 @@
+.footer {
+  height: 500px;
+  background: #3f4e65;
+  color: #ffffff;
+}
+.footer__row {
+  display: flex;
+  margin-top: 71px;
+}
+
+h3 {
+  font-weight: 600;
+  font-size: 20px;
+  margin-bottom: 25px;
+}
+
+a {
+  margin-bottom: 20px;
+}
+a:last-child {
+  margin-bottom: 0;
+}
+.footer__row a {
+  color: #ffffff;
+  display: block;
+}
+.footer_colum1 {
+  width: 320px;
+}
+
+.footer__text {
+  font-size: 16px;
+  margin: 15px 0px 45px 0px;
+}
+.footer_colum1 p {
+  margin-bottom: 14px;
+  font-size: 12px;
+}
+.wrapper__input {
+  position: relative;
+}
+.imput__go {
+  position: absolute;
+  top: 10px;
+  left: 215px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 39px;
+  height: 39px;
+  border-radius: 50%;
+  background: #ffc85e;
+}
+
+.imput__go div {
+  width: 10px;
+  height: 10px;
+  border-top: 3px solid #ffffff;
+  border-right: 3px solid #ffffff;
+  transform: rotate(45deg);
+}
+.footer__colum2 {
+  width: 130px;
+  margin: 0px 95px 0px 59px;
+}
+
+.footer__colum3 {
+  width: 170px;
+}
+.footer__colum4 {
+  width: 214px;
+  margin: 0 95px;
+}
+.footer__colum4 p {
+  margin: 20px 0px 15px 0px;
+}
+.footer__contacts {
+  display: flex;
+}
+.logo__watsap {
+  margin-right: 10px;
+  width: 39px;
+  height: 39px;
+  border-radius: 50%;
+  background: #00e676;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.textInfo a {
+  margin: 0;
+}
+.textInfo p {
+  width: 152px;
+  width: 160px;
+  font-weight: 300;
+  font-size: 12px;
+}
+.textInfo p:last-child {
+  font-weight: 400;
+  font-size: 10px;
+  text-decoration-line: underline;
+}
+.footer__mail {
+  margin: 25px 0;
+}
+.footer__mail a {
+  margin: 0;
+}
+.footer__payment {
+  display: flex;
+}
+.footer__payment img:first-child {
+  margin-right: 5px;
+}

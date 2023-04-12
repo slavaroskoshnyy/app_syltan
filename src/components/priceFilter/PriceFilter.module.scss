@@ -1,0 +1,26 @@
+.wrapper {
+   margin-bottom: 30px;
+
+   input {
+      width: 100px;
+      height: 23px;
+      text-align: center;
+      background: linear-gradient(90deg, rgba(255, 198, 80, 0.3) 0%, rgba(254, 202, 110, 0.3) 97.25%);
+   }
+}
+
+.title {
+   margin-bottom: 16px;
+   font-weight: 300;
+   color: #3F4E65;
+
+   span {
+      font-weight: 500;
+      color: #111111;
+   }
+}
+
+.conteiner {
+   display: flex;
+   justify-content: space-between;
+}

@@ -1,0 +1,9 @@
+.column {
+  margin: 0 auto;
+  padding: 0px 10.5px;
+  display: flex;
+}
+
+.item__wrapper {
+  width: 236px;
+}
