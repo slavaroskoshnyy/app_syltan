@@ -43,7 +43,6 @@ function App() {
   }, []);
 
   const sortedItems = useMemo(() => {
-    console.log("asas");
     if (selectedSort) {
       return [...items].sort((a: any, b: any) =>
         a[selectedSort].localeCompare(b[selectedSort])

@@ -2,7 +2,13 @@ import React from "react";
 import MySelect from "../UI/selekt/MySelect";
 import cl from "./MyTitle.module.scss";
 
-export default function MyTitle({ title, selectedSort, sortPosts }) {
+interface IMyTitile {
+  title?: string;
+  selectedSort: string;
+  sortPosts: any;
+}
+
+export default function MyTitle({ title, selectedSort, sortPosts }: IMyTitile) {
   return (
     <div className="container">
       <div className={cl.subtitle}>
@@ -15,7 +21,6 @@ export default function MyTitle({ title, selectedSort, sortPosts }) {
           name="Сортировка"
           value={selectedSort}
           onChange={sortPosts}
-          // defaultValue="Сортировка"
           prodycts={[
             { value: "name", name: " По названию " },
             { value: "const", name: " По цене " },

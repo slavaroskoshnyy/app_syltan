@@ -1,13 +1,22 @@
-import React from "react";
+import React, { FC } from "react";
 import cl from "./MySelect.module.scss";
 
+interface IProdycts {
+  name: string;
+  value: string;
+}
+interface IMySelect {
+  prodycts: IProdycts[];
+  value: string;
+  onChange: FC;
+  name: string;
+}
 export default function MySelect({
-  //   defaultValue,
   prodycts,
   value,
   onChange,
   name,
-}) {
+}: IMySelect) {
   return (
     <p className={cl.title}>
       {name}:
@@ -16,9 +25,6 @@ export default function MySelect({
         onChange={(event) => onChange(event.target.value)}
         className={cl.select}
       >
-        {/* <option disabled value="">
-          {defaultValue}
-        </option> */}
         {prodycts.map((prodyct) => (
           <option key={prodyct.name} value={prodyct.value}>
             {prodyct.name}

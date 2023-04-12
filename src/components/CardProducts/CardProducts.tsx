@@ -2,9 +2,9 @@ import MyButton from "../UI/button/MyButton";
 import basket from "../../img/basket.png";
 import cl from "./CardProducts.module.scss";
 
-export default function FileProcess(props: any): any {
+export default function CardProducts(props: any): any {
   return (
-    <div className={cl.column} >
+    <div className={cl.column}>
       <div className={cl.item__wrapper}>
         <div className={cl.item__content}>
           <img

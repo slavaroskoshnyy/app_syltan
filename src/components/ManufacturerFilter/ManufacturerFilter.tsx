@@ -4,14 +4,22 @@ import Input from "../UI/input/Input";
 import Manufacturer from "../Manufacturer/Manufacturer";
 import ShowAll from "../UI/showAll/ShowAll";
 
-export default function ManufacturerFilter({ searchQuery, setSearchQuery }) {
+interface IManufacturerFilter {
+  searchQuery: string;
+  setSearchQuery: any;
+}
+
+export default function ManufacturerFilter({
+  searchQuery,
+  setSearchQuery,
+}: IManufacturerFilter) {
   return (
     <div className={cl.wrapper}>
       <p className={cl.title}>Производитель</p>
       <Input
         className={cl.input}
         value={searchQuery}
-        onChange={(e) => setSearchQuery(e.target.value)}
+        onChange={(e: any) => setSearchQuery(e.target.value)}
       />
       <Manufacturer />
       <ShowAll />
