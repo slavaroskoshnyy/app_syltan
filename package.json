@@ -45,7 +45,19 @@
     ]
   },
   "devDependencies": {
+    "@testing-library/jest-dom": "^5.16.5",
+    "eslint-plugin-jest-dom": "^4.0.3",
     "jest": "^27.5.1",
     "sass": "^1.60.0"
+  },
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slavaroskoshnyy/app_syltan.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slavaroskoshnyy/app_syltan/issues"
   }
 }

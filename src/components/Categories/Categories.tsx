@@ -17,7 +17,7 @@ export default function Categories() {
     { name: "Бумажная продукция" },
   ];
   return (
-    <div className={cl.wrapper}>
+    <div className={cl.wrapper} role="text">
       {categories.map((elem) => (
         <CardCategories name={elem.name} key={elem.name} />
       ))}

@@ -1,0 +1,3544 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App component App snapshot 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="wrapper"
+      >
+        <div
+          class="content"
+        >
+          <div
+            class="nabvar__wrapper"
+          >
+            <div
+              class="container"
+            >
+              <div
+                class="navbar"
+              >
+                <div
+                  class="navbar__info"
+                >
+                  <div
+                    class="info__adres"
+                  >
+                    <img
+                      alt=""
+                      src="Group.png"
+                    />
+                    <div>
+                      <p>
+                        г. Кокчетав, ул. Ж. Ташенова 129Б
+                      </p>
+                      <p>
+                        (Рынок Восточный)
+                      </p>
+                    </div>
+                  </div>
+                  <div
+                    class="info__email"
+                  >
+                    <img
+                      alt=""
+                      src="Group2.png"
+                    />
+                    <div>
+                      <a
+                        href="mailto:opt.sultan@mail.ru"
+                      >
+                        opt.sultan@mail.ru
+                      </a>
+                      <p>
+                        На связи в любое время
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <nav
+                  class="navbar__nav"
+                >
+                  <a
+                    href="/"
+                  >
+                    О компании 
+                  </a>
+                  <a
+                    href="/"
+                  >
+                    Доставка и оплата
+                  </a>
+                  <a
+                    href="/"
+                  >
+                    Возврат
+                  </a>
+                  <a
+                    href="/"
+                  >
+                    Контакты
+                  </a>
+                </nav>
+              </div>
+            </div>
+          </div>
+          <div
+            class="headers__wrapper"
+          >
+            <div
+              class="container"
+            >
+              <div
+                class="header"
+              >
+                <img
+                  alt=""
+                  class="header__img"
+                  src="logo.png"
+                />
+                <button
+                  class="headerBtn__catalog"
+                >
+                  Каталог
+                  <img
+                    src="FrameBtn.png"
+                  />
+                </button>
+                <div
+                  class="wrapper__input"
+                >
+                  <input
+                    placeholder="Поиск..."
+                    type="text"
+                  />
+                  <div
+                    class="imgSearch"
+                  >
+                    <img
+                      alt=""
+                      src="search.png"
+                    />
+                  </div>
+                </div>
+                <div
+                  class="textInfo"
+                >
+                  <a
+                    href="tel:+7(777)490-00-91"
+                  >
+                    +7(777)490-00-91
+                  </a>
+                  <p>
+                    время работы: 9:00-20:00
+                  </p>
+                  <p>
+                    Заказать звонок
+                  </p>
+                </div>
+                <img
+                  alt=""
+                  src="2.png"
+                />
+                <button
+                  class="headerBtn__price"
+                >
+                  Прайс-лист
+                  <img
+                    src="imgLoader.png"
+                  />
+                </button>
+                <button
+                  class="header__btn"
+                >
+                  <img
+                    alt=""
+                    src="cart.png"
+                  />
+                   
+                </button>
+                <div>
+                  <p>
+                    Корзина
+                  </p>
+                  <p
+                    class="price"
+                  >
+                     0 ₸ 
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="container"
+          >
+            <div
+              class="subtitle"
+            >
+              <p>
+                Главная |
+              </p>
+              <p>
+                Косметика и гигиена
+              </p>
+            </div>
+            <div
+              class="wrapper__title"
+            >
+              <h1
+                class="title"
+              >
+                Косметика и гигиена
+              </h1>
+              <p
+                class="title"
+              >
+                Сортировка
+                :
+                <select
+                  class="select"
+                >
+                  <option
+                    value="name"
+                  >
+                     По названию 
+                  </option>
+                  <option
+                    value="const"
+                  >
+                     По цене 
+                  </option>
+                </select>
+              </p>
+            </div>
+          </div>
+          <div
+            class="container"
+          >
+            <div
+              class="wrapper"
+              role="text"
+            >
+              <div
+                class="text"
+              >
+                <div>
+                  <p>
+                    Уход за телом
+                  </p>
+                </div>
+              </div>
+              <div
+                class="text"
+              >
+                <div>
+                  <p>
+                    Уход за руками
+                  </p>
+                </div>
+              </div>
+              <div
+                class="text"
+              >
+                <div>
+                  <p>
+                    Уход за ногами
+                  </p>
+                </div>
+              </div>
+              <div
+                class="text"
+              >
+                <div>
+                  <p>
+                    Уход за лицом
+                  </p>
+                </div>
+              </div>
+              <div
+                class="text"
+              >
+                <div>
+                  <p>
+                    Уход за волосами
+                  </p>
+                </div>
+              </div>
+              <div
+                class="text"
+              >
+                <div>
+                  <p>
+                    Средства для загара
+                  </p>
+                </div>
+              </div>
+              <div
+                class="text"
+              >
+                <div>
+                  <p>
+                    Средства для бритья
+                  </p>
+                </div>
+              </div>
+              <div
+                class="text"
+              >
+                <div>
+                  <p>
+                    Подарочные наборы
+                  </p>
+                </div>
+              </div>
+              <div
+                class="text"
+              >
+                <div>
+                  <p>
+                    Гигиеническая продукция
+                  </p>
+                </div>
+              </div>
+              <div
+                class="text"
+              >
+                <div>
+                  <p>
+                    Гигиена полости рта
+                  </p>
+                </div>
+              </div>
+              <div
+                class="text"
+              >
+                <div>
+                  <p>
+                    Бумажная продукция
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div
+              class="content__row"
+            >
+              <div
+                class="options"
+              >
+                <h3
+                  class="title__filter"
+                >
+                  ПОДБОР ПО ПАРАМЕТРАМ
+                </h3>
+                <div
+                  class="wrapper"
+                >
+                  <p
+                    class="title"
+                  >
+                    Цена 
+                    <span>
+                      ₸
+                    </span>
+                  </p>
+                  <div
+                    class="conteiner"
+                  >
+                    <input
+                      id=""
+                      name=""
+                      type="number"
+                      value="0"
+                    />
+                    <p>
+                      -
+                    </p>
+                    <input
+                      id=""
+                      name=""
+                      type="number"
+                      value="10000"
+                    />
+                  </div>
+                </div>
+                <div
+                  class="wrapper"
+                >
+                  <p
+                    class="title"
+                  >
+                    Производитель
+                  </p>
+                  <div
+                    class="wrapper__input"
+                  >
+                    <input
+                      class="input"
+                      placeholder="Поиск..."
+                      type="text"
+                      value=""
+                    />
+                    <div
+                      class="imgSearch"
+                    >
+                      <img
+                        alt=""
+                        src="search.png"
+                      />
+                    </div>
+                  </div>
+                  <div
+                    class="wrapper__cekbox"
+                  >
+                    <div
+                      class="wrapper"
+                    >
+                      <input
+                        class="input"
+                        id="Grifon"
+                        name=""
+                        type="checkbox"
+                        value="Grifon"
+                      />
+                      <label
+                        class="label"
+                        for="Grifon"
+                      >
+                        Grifon
+                      </label>
+                      <p
+                        class="text"
+                      >
+                        (
+                        56
+                        )
+                      </p>
+                    </div>
+                    <div
+                      class="wrapper"
+                    >
+                      <input
+                        class="input"
+                        id="Boyscout"
+                        name=""
+                        type="checkbox"
+                        value="Boyscout"
+                      />
+                      <label
+                        class="label"
+                        for="Boyscout"
+                      >
+                        Boyscout
+                      </label>
+                      <p
+                        class="text"
+                      >
+                        (
+                        66
+                        )
+                      </p>
+                    </div>
+                    <div
+                      class="wrapper"
+                    >
+                      <input
+                        class="input"
+                        id="Paclan"
+                        name=""
+                        type="checkbox"
+                        value="Paclan"
+                      />
+                      <label
+                        class="label"
+                        for="Paclan"
+                      >
+                        Paclan
+                      </label>
+                      <p
+                        class="text"
+                      >
+                        (
+                        166
+                        )
+                      </p>
+                    </div>
+                    <div
+                      class="wrapper"
+                    >
+                      <input
+                        class="input"
+                        id="Булгари Грин"
+                        name=""
+                        type="checkbox"
+                        value="Булгари Грин"
+                      />
+                      <label
+                        class="label"
+                        for="Булгари Грин"
+                      >
+                        Булгари Грин
+                      </label>
+                      <p
+                        class="text"
+                      >
+                        (
+                        21
+                        )
+                      </p>
+                    </div>
+                    <div
+                      class="wrapper"
+                    >
+                      <input
+                        class="input"
+                        id="Нэфис"
+                        name=""
+                        type="checkbox"
+                        value="Нэфис"
+                      />
+                      <label
+                        class="label"
+                        for="Нэфис"
+                      >
+                        Нэфис
+                      </label>
+                      <p
+                        class="text"
+                      >
+                        (
+                        22
+                        )
+                      </p>
+                    </div>
+                  </div>
+                  <div
+                    class="wrapper"
+                  >
+                    Показать все 
+                    <div
+                      class="triangle__down"
+                    />
+                  </div>
+                  <hr
+                    style="margin: 15px 0px; border: 1px dashed #3f4e65;"
+                  />
+                </div>
+              </div>
+              <div
+                class="row"
+              >
+                <div
+                  class="column"
+                >
+                  <div
+                    class="item__wrapper"
+                  >
+                    <div
+                      class="item__content"
+                    >
+                      <img
+                        alt="Это картинка товара, но я её не смог вставить"
+                        class="item__img"
+                        src="./img/product/image1.png"
+                      />
+                      <div
+                        class="item__size"
+                      >
+                        <img
+                          alt="тоже не смог"
+                          src="./img/product/1.png"
+                        />
+                        <p>
+                          15X28
+                        </p>
+                        <p>
+                           
+                          г
+                        </p>
+                      </div>
+                      <div
+                        class="item__name"
+                      >
+                        <p>
+                          <span>
+                            ARIEL
+                             
+                          </span>
+                          Автмат Гель СМС жидкое в растворимых капсулах Liquid Capsules Горный родник
+                        </p>
+                      </div>
+                      <div
+                        class="item__texst"
+                      >
+                        <p>
+                          <span>
+                            Штрихкод:
+                          </span>
+                           
+                          4604049097548
+                        </p>
+                        <p>
+                          <span>
+                            Производитель:
+                          </span>
+                           
+                          Нэфис
+                        </p>
+                        <p>
+                          <span>
+                            Бренд:
+                          </span>
+                           
+                          Нэфис
+                        </p>
+                      </div>
+                    </div>
+                    <div
+                      class="item__price"
+                    >
+                      <p>
+                        88,76 ₸
+                         
+                      </p>
+                      <button
+                        class="item__btn"
+                      >
+                        В корзину
+                        <img
+                          src="basket.png"
+                        />
+                      </button>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="column"
+                >
+                  <div
+                    class="item__wrapper"
+                  >
+                    <div
+                      class="item__content"
+                    >
+                      <img
+                        alt="Это картинка товара, но я её не смог вставить"
+                        class="item__img"
+                        src="./img/product/image2.png"
+                      />
+                      <div
+                        class="item__size"
+                      >
+                        <img
+                          alt="тоже не смог"
+                          src="./img/product/2.png"
+                        />
+                        <p>
+                          450
+                        </p>
+                        <p>
+                           
+                          мл
+                        </p>
+                      </div>
+                      <div
+                        class="item__name"
+                      >
+                        <p>
+                          <span>
+                            AOS
+                             
+                          </span>
+                          средство для мытья посуды Crystal
+                        </p>
+                      </div>
+                      <div
+                        class="item__texst"
+                      >
+                        <p>
+                          <span>
+                            Штрихкод:
+                          </span>
+                           
+                          4604049097548
+                        </p>
+                        <p>
+                          <span>
+                            Производитель:
+                          </span>
+                           
+                          Grifon
+                        </p>
+                        <p>
+                          <span>
+                            Бренд:
+                          </span>
+                           
+                          Grifon
+                        </p>
+                      </div>
+                    </div>
+                    <div
+                      class="item__price"
+                    >
+                      <p>
+                        48,7 ₸
+                         
+                      </p>
+                      <button
+                        class="item__btn"
+                      >
+                        В корзину
+                        <img
+                          src="basket.png"
+                        />
+                      </button>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="column"
+                >
+                  <div
+                    class="item__wrapper"
+                  >
+                    <div
+                      class="item__content"
+                    >
+                      <img
+                        alt="Это картинка товара, но я её не смог вставить"
+                        class="item__img"
+                        src="./img/product/image3.png"
+                      />
+                      <div
+                        class="item__size"
+                      >
+                        <img
+                          alt="тоже не смог"
+                          src="./img/product/2.png"
+                        />
+                        <p>
+                          450
+                        </p>
+                        <p>
+                           
+                          мл
+                        </p>
+                      </div>
+                      <div
+                        class="item__name"
+                      >
+                        <p>
+                          <span>
+                            AOS
+                             
+                          </span>
+                          Ср-во для мытья посуды Апельсин+мята
+                        </p>
+                      </div>
+                      <div
+                        class="item__texst"
+                      >
+                        <p>
+                          <span>
+                            Штрихкод:
+                          </span>
+                           
+                          4604049097548
+                        </p>
+                        <p>
+                          <span>
+                            Производитель:
+                          </span>
+                           
+                          Grifon
+                        </p>
+                        <p>
+                          <span>
+                            Бренд:
+                          </span>
+                           
+                          Grifon
+                        </p>
+                      </div>
+                    </div>
+                    <div
+                      class="item__price"
+                    >
+                      <p>
+                        4,76 ₸
+                         
+                      </p>
+                      <button
+                        class="item__btn"
+                      >
+                        В корзину
+                        <img
+                          src="basket.png"
+                        />
+                      </button>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="column"
+                >
+                  <div
+                    class="item__wrapper"
+                  >
+                    <div
+                      class="item__content"
+                    >
+                      <img
+                        alt="Это картинка товара, но я её не смог вставить"
+                        class="item__img"
+                        src="./img/product/image4.png"
+                      />
+                      <div
+                        class="item__size"
+                      >
+                        <img
+                          alt="тоже не смог"
+                          src="./img/product/1.png"
+                        />
+                        <p>
+                          1500
+                        </p>
+                        <p>
+                           
+                          г
+                        </p>
+                      </div>
+                      <div
+                        class="item__name"
+                      >
+                        <p>
+                          <span>
+                            BIMAX
+                             
+                          </span>
+                          Порошок стиральный Автомат 100 пятен COMPACT
+                        </p>
+                      </div>
+                      <div
+                        class="item__texst"
+                      >
+                        <p>
+                          <span>
+                            Штрихкод:
+                          </span>
+                           
+                          4604049097548
+                        </p>
+                        <p>
+                          <span>
+                            Производитель:
+                          </span>
+                           
+                          Boyscout
+                        </p>
+                        <p>
+                          <span>
+                            Бренд:
+                          </span>
+                           
+                          Boyscout
+                        </p>
+                      </div>
+                    </div>
+                    <div
+                      class="item__price"
+                    >
+                      <p>
+                        48 ₸
+                         
+                      </p>
+                      <button
+                        class="item__btn"
+                      >
+                        В корзину
+                        <img
+                          src="basket.png"
+                        />
+                      </button>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="column"
+                >
+                  <div
+                    class="item__wrapper"
+                  >
+                    <div
+                      class="item__content"
+                    >
+                      <img
+                        alt="Это картинка товара, но я её не смог вставить"
+                        class="item__img"
+                        src="./img/product/image1.png"
+                      />
+                      <div
+                        class="item__size"
+                      >
+                        <img
+                          alt="тоже не смог"
+                          src="./img/product/1.png"
+                        />
+                        <p>
+                          15X28
+                        </p>
+                        <p>
+                           
+                          г
+                        </p>
+                      </div>
+                      <div
+                        class="item__name"
+                      >
+                        <p>
+                          <span>
+                            ARIEL
+                             
+                          </span>
+                          Автмат Гель СМС жидкое в растворимых капсулах Liquid Capsules Горный родник
+                        </p>
+                      </div>
+                      <div
+                        class="item__texst"
+                      >
+                        <p>
+                          <span>
+                            Штрихкод:
+                          </span>
+                           
+                          4604049097548
+                        </p>
+                        <p>
+                          <span>
+                            Производитель:
+                          </span>
+                           
+                          Boyscout
+                        </p>
+                        <p>
+                          <span>
+                            Бренд:
+                          </span>
+                           
+                          Boyscout
+                        </p>
+                      </div>
+                    </div>
+                    <div
+                      class="item__price"
+                    >
+                      <p>
+                        4,76 ₸
+                         
+                      </p>
+                      <button
+                        class="item__btn"
+                      >
+                        В корзину
+                        <img
+                          src="basket.png"
+                        />
+                      </button>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="column"
+                >
+                  <div
+                    class="item__wrapper"
+                  >
+                    <div
+                      class="item__content"
+                    >
+                      <img
+                        alt="Это картинка товара, но я её не смог вставить"
+                        class="item__img"
+                        src="./img/product/image2.png"
+                      />
+                      <div
+                        class="item__size"
+                      >
+                        <img
+                          alt="тоже не смог"
+                          src="./img/product/2.png"
+                        />
+                        <p>
+                          450
+                        </p>
+                        <p>
+                           
+                          мл
+                        </p>
+                      </div>
+                      <div
+                        class="item__name"
+                      >
+                        <p>
+                          <span>
+                            AOS
+                             
+                          </span>
+                          средство для мытья посуды Crystal
+                        </p>
+                      </div>
+                      <div
+                        class="item__texst"
+                      >
+                        <p>
+                          <span>
+                            Штрихкод:
+                          </span>
+                           
+                          4604049097548
+                        </p>
+                        <p>
+                          <span>
+                            Производитель:
+                          </span>
+                           
+                          Paclan
+                        </p>
+                        <p>
+                          <span>
+                            Бренд:
+                          </span>
+                           
+                          Paclan
+                        </p>
+                      </div>
+                    </div>
+                    <div
+                      class="item__price"
+                    >
+                      <p>
+                        48,6 ₸
+                         
+                      </p>
+                      <button
+                        class="item__btn"
+                      >
+                        В корзину
+                        <img
+                          src="basket.png"
+                        />
+                      </button>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="column"
+                >
+                  <div
+                    class="item__wrapper"
+                  >
+                    <div
+                      class="item__content"
+                    >
+                      <img
+                        alt="Это картинка товара, но я её не смог вставить"
+                        class="item__img"
+                        src="./img/product/image3.png"
+                      />
+                      <div
+                        class="item__size"
+                      >
+                        <img
+                          alt="тоже не смог"
+                          src="./img/product/2.png"
+                        />
+                        <p>
+                          450
+                        </p>
+                        <p>
+                           
+                          мл
+                        </p>
+                      </div>
+                      <div
+                        class="item__name"
+                      >
+                        <p>
+                          <span>
+                            AOS
+                             
+                          </span>
+                          Ср-во для мытья посуды Апельсин+мята
+                        </p>
+                      </div>
+                      <div
+                        class="item__texst"
+                      >
+                        <p>
+                          <span>
+                            Штрихкод:
+                          </span>
+                           
+                          4604049097548
+                        </p>
+                        <p>
+                          <span>
+                            Производитель:
+                          </span>
+                           
+                          Paclan
+                        </p>
+                        <p>
+                          <span>
+                            Бренд:
+                          </span>
+                           
+                          Paclan
+                        </p>
+                      </div>
+                    </div>
+                    <div
+                      class="item__price"
+                    >
+                      <p>
+                        46 ₸
+                         
+                      </p>
+                      <button
+                        class="item__btn"
+                      >
+                        В корзину
+                        <img
+                          src="basket.png"
+                        />
+                      </button>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="column"
+                >
+                  <div
+                    class="item__wrapper"
+                  >
+                    <div
+                      class="item__content"
+                    >
+                      <img
+                        alt="Это картинка товара, но я её не смог вставить"
+                        class="item__img"
+                        src="./img/product/image4.png"
+                      />
+                      <div
+                        class="item__size"
+                      >
+                        <img
+                          alt="тоже не смог"
+                          src="./img/product/1.png"
+                        />
+                        <p>
+                          1500
+                        </p>
+                        <p>
+                           
+                          г
+                        </p>
+                      </div>
+                      <div
+                        class="item__name"
+                      >
+                        <p>
+                          <span>
+                            BIMAX
+                             
+                          </span>
+                          Порошок стиральный Автомат 100 пятен COMPACT
+                        </p>
+                      </div>
+                      <div
+                        class="item__texst"
+                      >
+                        <p>
+                          <span>
+                            Штрихкод:
+                          </span>
+                           
+                          4604049097548
+                        </p>
+                        <p>
+                          <span>
+                            Производитель:
+                          </span>
+                           
+                          Paclan
+                        </p>
+                        <p>
+                          <span>
+                            Бренд:
+                          </span>
+                           
+                          Нэфис
+                        </p>
+                      </div>
+                    </div>
+                    <div
+                      class="item__price"
+                    >
+                      <p>
+                        48,76 ₸
+                         
+                      </p>
+                      <button
+                        class="item__btn"
+                      >
+                        В корзину
+                        <img
+                          src="basket.png"
+                        />
+                      </button>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="column"
+                >
+                  <div
+                    class="item__wrapper"
+                  >
+                    <div
+                      class="item__content"
+                    >
+                      <img
+                        alt="Это картинка товара, но я её не смог вставить"
+                        class="item__img"
+                        src="./img/product/image1.png"
+                      />
+                      <div
+                        class="item__size"
+                      >
+                        <img
+                          alt="тоже не смог"
+                          src="./img/product/1.png"
+                        />
+                        <p>
+                          15X28
+                        </p>
+                        <p>
+                           
+                          г
+                        </p>
+                      </div>
+                      <div
+                        class="item__name"
+                      >
+                        <p>
+                          <span>
+                            ARIEL
+                             
+                          </span>
+                          Автмат Гель СМС жидкое в растворимых капсулах Liquid Capsules Горный родник
+                        </p>
+                      </div>
+                      <div
+                        class="item__texst"
+                      >
+                        <p>
+                          <span>
+                            Штрихкод:
+                          </span>
+                           
+                          4604049097548
+                        </p>
+                        <p>
+                          <span>
+                            Производитель:
+                          </span>
+                           
+                          Нэфис
+                        </p>
+                        <p>
+                          <span>
+                            Бренд:
+                          </span>
+                           
+                          Нэфис
+                        </p>
+                      </div>
+                    </div>
+                    <div
+                      class="item__price"
+                    >
+                      <p>
+                        48,76 ₸
+                         
+                      </p>
+                      <button
+                        class="item__btn"
+                      >
+                        В корзину
+                        <img
+                          src="basket.png"
+                        />
+                      </button>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="column"
+                >
+                  <div
+                    class="item__wrapper"
+                  >
+                    <div
+                      class="item__content"
+                    >
+                      <img
+                        alt="Это картинка товара, но я её не смог вставить"
+                        class="item__img"
+                        src="./img/product/image2.png"
+                      />
+                      <div
+                        class="item__size"
+                      >
+                        <img
+                          alt="тоже не смог"
+                          src="./img/product/2.png"
+                        />
+                        <p>
+                          450
+                        </p>
+                        <p>
+                           
+                          мл
+                        </p>
+                      </div>
+                      <div
+                        class="item__name"
+                      >
+                        <p>
+                          <span>
+                            AOS
+                             
+                          </span>
+                          средство для мытья посуды Crystal
+                        </p>
+                      </div>
+                      <div
+                        class="item__texst"
+                      >
+                        <p>
+                          <span>
+                            Штрихкод:
+                          </span>
+                           
+                          4604049097548
+                        </p>
+                        <p>
+                          <span>
+                            Производитель:
+                          </span>
+                           
+                          AOS
+                        </p>
+                        <p>
+                          <span>
+                            Бренд:
+                          </span>
+                           
+                          Булгари Грин
+                        </p>
+                      </div>
+                    </div>
+                    <div
+                      class="item__price"
+                    >
+                      <p>
+                        48,76 ₸
+                         
+                      </p>
+                      <button
+                        class="item__btn"
+                      >
+                        В корзину
+                        <img
+                          src="basket.png"
+                        />
+                      </button>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="column"
+                >
+                  <div
+                    class="item__wrapper"
+                  >
+                    <div
+                      class="item__content"
+                    >
+                      <img
+                        alt="Это картинка товара, но я её не смог вставить"
+                        class="item__img"
+                        src="./img/product/image3.png"
+                      />
+                      <div
+                        class="item__size"
+                      >
+                        <img
+                          alt="тоже не смог"
+                          src="./img/product/2.png"
+                        />
+                        <p>
+                          450
+                        </p>
+                        <p>
+                           
+                          мл
+                        </p>
+                      </div>
+                      <div
+                        class="item__name"
+                      >
+                        <p>
+                          <span>
+                            AOS
+                             
+                          </span>
+                          Ср-во для мытья посуды Апельсин+мята
+                        </p>
+                      </div>
+                      <div
+                        class="item__texst"
+                      >
+                        <p>
+                          <span>
+                            Штрихкод:
+                          </span>
+                           
+                          4604049097548
+                        </p>
+                        <p>
+                          <span>
+                            Производитель:
+                          </span>
+                           
+                          AOS
+                        </p>
+                        <p>
+                          <span>
+                            Бренд:
+                          </span>
+                           
+                          Булгари Грин
+                        </p>
+                      </div>
+                    </div>
+                    <div
+                      class="item__price"
+                    >
+                      <p>
+                        48,76 ₸
+                         
+                      </p>
+                      <button
+                        class="item__btn"
+                      >
+                        В корзину
+                        <img
+                          src="basket.png"
+                        />
+                      </button>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="column"
+                >
+                  <div
+                    class="item__wrapper"
+                  >
+                    <div
+                      class="item__content"
+                    >
+                      <img
+                        alt="Это картинка товара, но я её не смог вставить"
+                        class="item__img"
+                        src="./img/product/image4.png"
+                      />
+                      <div
+                        class="item__size"
+                      >
+                        <img
+                          alt="тоже не смог"
+                          src="./img/product/1.png"
+                        />
+                        <p>
+                          1500
+                        </p>
+                        <p>
+                           
+                          г
+                        </p>
+                      </div>
+                      <div
+                        class="item__name"
+                      >
+                        <p>
+                          <span>
+                            BIMAX
+                             
+                          </span>
+                          Порошок стиральный Автомат 100 пятен COMPACT
+                        </p>
+                      </div>
+                      <div
+                        class="item__texst"
+                      >
+                        <p>
+                          <span>
+                            Штрихкод:
+                          </span>
+                           
+                          4604049097548
+                        </p>
+                        <p>
+                          <span>
+                            Производитель:
+                          </span>
+                           
+                          AOS
+                        </p>
+                        <p>
+                          <span>
+                            Бренд:
+                          </span>
+                           
+                          Нэфис
+                        </p>
+                      </div>
+                    </div>
+                    <div
+                      class="item__price"
+                    >
+                      <p>
+                        48,76 ₸
+                         
+                      </p>
+                      <button
+                        class="item__btn"
+                      >
+                        В корзину
+                        <img
+                          src="basket.png"
+                        />
+                      </button>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <footer
+          class="footer"
+        >
+          <div
+            class="container"
+          >
+            <div
+              class="footer__row"
+            >
+              <div
+                class="footer_colum1"
+              >
+                <img
+                  alt=""
+                  class="footer__leibl"
+                  src="logo.png"
+                />
+                <div
+                  class="footer__text"
+                >
+                  Компания «Султан» — снабжаем розничные магазины товарами
+                  <br />
+                  "под ключ" в Кокчетаве и Акмолинской области
+                </div>
+                <p>
+                  Подпишись на скидки и акции
+                </p>
+                <div
+                  class="wrapper__input"
+                >
+                  <input
+                    class="footer__imput"
+                    placeholder="Введите ваш E-mail"
+                    type="text"
+                  />
+                  <div
+                    class="imput__go"
+                  >
+                    <div />
+                  </div>
+                </div>
+              </div>
+              <div
+                class="footer__colum2"
+              >
+                <h3>
+                  Меню сайта:
+                </h3>
+                <a
+                  href="/"
+                >
+                  О компании
+                </a>
+                <a
+                  href="/"
+                >
+                  Доставка и оплата
+                </a>
+                <a
+                  href="/"
+                >
+                  Возврат
+                </a>
+                <a
+                  href="/"
+                >
+                  Контакты
+                </a>
+              </div>
+              <div
+                class="footer__colum3"
+              >
+                <h3>
+                  Категории:
+                </h3>
+                <a
+                  href="/"
+                >
+                  Бытовая химия
+                </a>
+                <a
+                  href="/"
+                >
+                  Косметика и гигиена
+                </a>
+                <a
+                  href="/"
+                >
+                  Товары для дома
+                </a>
+                <a
+                  href="/"
+                >
+                  Товары для детей и мам
+                </a>
+                <a
+                  href="/"
+                >
+                  Посуда
+                </a>
+              </div>
+              <div
+                class="footer__colum4"
+              >
+                <h3>
+                  Скачать прайс-лист:
+                </h3>
+                <button
+                  class="footerBtn__price"
+                >
+                  Прайс-лист
+                  <img
+                    src="imgLoader.png"
+                  />
+                </button>
+                <p>
+                  Связь в мессенджерах:
+                </p>
+                <div
+                  class="footer__contacts"
+                >
+                  <a
+                    href="/"
+                  >
+                    <div
+                      class="logo__watsap"
+                    >
+                      <img
+                        alt=""
+                        src="logo1.png"
+                      />
+                    </div>
+                  </a>
+                  <a
+                    href="/"
+                  >
+                    <div>
+                      <img
+                        alt=""
+                        src="logo2.png"
+                      />
+                    </div>
+                  </a>
+                </div>
+              </div>
+              <div
+                class="footer__colum5"
+              >
+                <h3>
+                  Контакты:
+                </h3>
+                <div
+                  class="textInfo"
+                >
+                  <a
+                    href="tel:+7(777)490-00-91"
+                  >
+                    +7(777)490-00-91
+                  </a>
+                  <p>
+                    время работы: 9:00-20:00
+                  </p>
+                  <p>
+                    Заказать звонок
+                  </p>
+                </div>
+                <div
+                  class="footer__mail"
+                >
+                  <a
+                    href="/"
+                  >
+                    opt.sultan@mail.ru
+                  </a>
+                  <p>
+                    На связи в любое время
+                  </p>
+                </div>
+                <div
+                  class="footer__payment"
+                >
+                  <a
+                    href="/"
+                  >
+                    <img
+                      alt=""
+                      src="Visa1.png"
+                    />
+                  </a>
+                  <a
+                    href="/"
+                  >
+                    <img
+                      alt=""
+                      src="Visa2.png"
+                    />
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </footer>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="wrapper"
+    >
+      <div
+        class="content"
+      >
+        <div
+          class="nabvar__wrapper"
+        >
+          <div
+            class="container"
+          >
+            <div
+              class="navbar"
+            >
+              <div
+                class="navbar__info"
+              >
+                <div
+                  class="info__adres"
+                >
+                  <img
+                    alt=""
+                    src="Group.png"
+                  />
+                  <div>
+                    <p>
+                      г. Кокчетав, ул. Ж. Ташенова 129Б
+                    </p>
+                    <p>
+                      (Рынок Восточный)
+                    </p>
+                  </div>
+                </div>
+                <div
+                  class="info__email"
+                >
+                  <img
+                    alt=""
+                    src="Group2.png"
+                  />
+                  <div>
+                    <a
+                      href="mailto:opt.sultan@mail.ru"
+                    >
+                      opt.sultan@mail.ru
+                    </a>
+                    <p>
+                      На связи в любое время
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <nav
+                class="navbar__nav"
+              >
+                <a
+                  href="/"
+                >
+                  О компании 
+                </a>
+                <a
+                  href="/"
+                >
+                  Доставка и оплата
+                </a>
+                <a
+                  href="/"
+                >
+                  Возврат
+                </a>
+                <a
+                  href="/"
+                >
+                  Контакты
+                </a>
+              </nav>
+            </div>
+          </div>
+        </div>
+        <div
+          class="headers__wrapper"
+        >
+          <div
+            class="container"
+          >
+            <div
+              class="header"
+            >
+              <img
+                alt=""
+                class="header__img"
+                src="logo.png"
+              />
+              <button
+                class="headerBtn__catalog"
+              >
+                Каталог
+                <img
+                  src="FrameBtn.png"
+                />
+              </button>
+              <div
+                class="wrapper__input"
+              >
+                <input
+                  placeholder="Поиск..."
+                  type="text"
+                />
+                <div
+                  class="imgSearch"
+                >
+                  <img
+                    alt=""
+                    src="search.png"
+                  />
+                </div>
+              </div>
+              <div
+                class="textInfo"
+              >
+                <a
+                  href="tel:+7(777)490-00-91"
+                >
+                  +7(777)490-00-91
+                </a>
+                <p>
+                  время работы: 9:00-20:00
+                </p>
+                <p>
+                  Заказать звонок
+                </p>
+              </div>
+              <img
+                alt=""
+                src="2.png"
+              />
+              <button
+                class="headerBtn__price"
+              >
+                Прайс-лист
+                <img
+                  src="imgLoader.png"
+                />
+              </button>
+              <button
+                class="header__btn"
+              >
+                <img
+                  alt=""
+                  src="cart.png"
+                />
+                 
+              </button>
+              <div>
+                <p>
+                  Корзина
+                </p>
+                <p
+                  class="price"
+                >
+                   0 ₸ 
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="container"
+        >
+          <div
+            class="subtitle"
+          >
+            <p>
+              Главная |
+            </p>
+            <p>
+              Косметика и гигиена
+            </p>
+          </div>
+          <div
+            class="wrapper__title"
+          >
+            <h1
+              class="title"
+            >
+              Косметика и гигиена
+            </h1>
+            <p
+              class="title"
+            >
+              Сортировка
+              :
+              <select
+                class="select"
+              >
+                <option
+                  value="name"
+                >
+                   По названию 
+                </option>
+                <option
+                  value="const"
+                >
+                   По цене 
+                </option>
+              </select>
+            </p>
+          </div>
+        </div>
+        <div
+          class="container"
+        >
+          <div
+            class="wrapper"
+            role="text"
+          >
+            <div
+              class="text"
+            >
+              <div>
+                <p>
+                  Уход за телом
+                </p>
+              </div>
+            </div>
+            <div
+              class="text"
+            >
+              <div>
+                <p>
+                  Уход за руками
+                </p>
+              </div>
+            </div>
+            <div
+              class="text"
+            >
+              <div>
+                <p>
+                  Уход за ногами
+                </p>
+              </div>
+            </div>
+            <div
+              class="text"
+            >
+              <div>
+                <p>
+                  Уход за лицом
+                </p>
+              </div>
+            </div>
+            <div
+              class="text"
+            >
+              <div>
+                <p>
+                  Уход за волосами
+                </p>
+              </div>
+            </div>
+            <div
+              class="text"
+            >
+              <div>
+                <p>
+                  Средства для загара
+                </p>
+              </div>
+            </div>
+            <div
+              class="text"
+            >
+              <div>
+                <p>
+                  Средства для бритья
+                </p>
+              </div>
+            </div>
+            <div
+              class="text"
+            >
+              <div>
+                <p>
+                  Подарочные наборы
+                </p>
+              </div>
+            </div>
+            <div
+              class="text"
+            >
+              <div>
+                <p>
+                  Гигиеническая продукция
+                </p>
+              </div>
+            </div>
+            <div
+              class="text"
+            >
+              <div>
+                <p>
+                  Гигиена полости рта
+                </p>
+              </div>
+            </div>
+            <div
+              class="text"
+            >
+              <div>
+                <p>
+                  Бумажная продукция
+                </p>
+              </div>
+            </div>
+          </div>
+          <div
+            class="content__row"
+          >
+            <div
+              class="options"
+            >
+              <h3
+                class="title__filter"
+              >
+                ПОДБОР ПО ПАРАМЕТРАМ
+              </h3>
+              <div
+                class="wrapper"
+              >
+                <p
+                  class="title"
+                >
+                  Цена 
+                  <span>
+                    ₸
+                  </span>
+                </p>
+                <div
+                  class="conteiner"
+                >
+                  <input
+                    id=""
+                    name=""
+                    type="number"
+                    value="0"
+                  />
+                  <p>
+                    -
+                  </p>
+                  <input
+                    id=""
+                    name=""
+                    type="number"
+                    value="10000"
+                  />
+                </div>
+              </div>
+              <div
+                class="wrapper"
+              >
+                <p
+                  class="title"
+                >
+                  Производитель
+                </p>
+                <div
+                  class="wrapper__input"
+                >
+                  <input
+                    class="input"
+                    placeholder="Поиск..."
+                    type="text"
+                    value=""
+                  />
+                  <div
+                    class="imgSearch"
+                  >
+                    <img
+                      alt=""
+                      src="search.png"
+                    />
+                  </div>
+                </div>
+                <div
+                  class="wrapper__cekbox"
+                >
+                  <div
+                    class="wrapper"
+                  >
+                    <input
+                      class="input"
+                      id="Grifon"
+                      name=""
+                      type="checkbox"
+                      value="Grifon"
+                    />
+                    <label
+                      class="label"
+                      for="Grifon"
+                    >
+                      Grifon
+                    </label>
+                    <p
+                      class="text"
+                    >
+                      (
+                      56
+                      )
+                    </p>
+                  </div>
+                  <div
+                    class="wrapper"
+                  >
+                    <input
+                      class="input"
+                      id="Boyscout"
+                      name=""
+                      type="checkbox"
+                      value="Boyscout"
+                    />
+                    <label
+                      class="label"
+                      for="Boyscout"
+                    >
+                      Boyscout
+                    </label>
+                    <p
+                      class="text"
+                    >
+                      (
+                      66
+                      )
+                    </p>
+                  </div>
+                  <div
+                    class="wrapper"
+                  >
+                    <input
+                      class="input"
+                      id="Paclan"
+                      name=""
+                      type="checkbox"
+                      value="Paclan"
+                    />
+                    <label
+                      class="label"
+                      for="Paclan"
+                    >
+                      Paclan
+                    </label>
+                    <p
+                      class="text"
+                    >
+                      (
+                      166
+                      )
+                    </p>
+                  </div>
+                  <div
+                    class="wrapper"
+                  >
+                    <input
+                      class="input"
+                      id="Булгари Грин"
+                      name=""
+                      type="checkbox"
+                      value="Булгари Грин"
+                    />
+                    <label
+                      class="label"
+                      for="Булгари Грин"
+                    >
+                      Булгари Грин
+                    </label>
+                    <p
+                      class="text"
+                    >
+                      (
+                      21
+                      )
+                    </p>
+                  </div>
+                  <div
+                    class="wrapper"
+                  >
+                    <input
+                      class="input"
+                      id="Нэфис"
+                      name=""
+                      type="checkbox"
+                      value="Нэфис"
+                    />
+                    <label
+                      class="label"
+                      for="Нэфис"
+                    >
+                      Нэфис
+                    </label>
+                    <p
+                      class="text"
+                    >
+                      (
+                      22
+                      )
+                    </p>
+                  </div>
+                </div>
+                <div
+                  class="wrapper"
+                >
+                  Показать все 
+                  <div
+                    class="triangle__down"
+                  />
+                </div>
+                <hr
+                  style="margin: 15px 0px; border: 1px dashed #3f4e65;"
+                />
+              </div>
+            </div>
+            <div
+              class="row"
+            >
+              <div
+                class="column"
+              >
+                <div
+                  class="item__wrapper"
+                >
+                  <div
+                    class="item__content"
+                  >
+                    <img
+                      alt="Это картинка товара, но я её не смог вставить"
+                      class="item__img"
+                      src="./img/product/image1.png"
+                    />
+                    <div
+                      class="item__size"
+                    >
+                      <img
+                        alt="тоже не смог"
+                        src="./img/product/1.png"
+                      />
+                      <p>
+                        15X28
+                      </p>
+                      <p>
+                         
+                        г
+                      </p>
+                    </div>
+                    <div
+                      class="item__name"
+                    >
+                      <p>
+                        <span>
+                          ARIEL
+                           
+                        </span>
+                        Автмат Гель СМС жидкое в растворимых капсулах Liquid Capsules Горный родник
+                      </p>
+                    </div>
+                    <div
+                      class="item__texst"
+                    >
+                      <p>
+                        <span>
+                          Штрихкод:
+                        </span>
+                         
+                        4604049097548
+                      </p>
+                      <p>
+                        <span>
+                          Производитель:
+                        </span>
+                         
+                        Нэфис
+                      </p>
+                      <p>
+                        <span>
+                          Бренд:
+                        </span>
+                         
+                        Нэфис
+                      </p>
+                    </div>
+                  </div>
+                  <div
+                    class="item__price"
+                  >
+                    <p>
+                      88,76 ₸
+                       
+                    </p>
+                    <button
+                      class="item__btn"
+                    >
+                      В корзину
+                      <img
+                        src="basket.png"
+                      />
+                    </button>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="column"
+              >
+                <div
+                  class="item__wrapper"
+                >
+                  <div
+                    class="item__content"
+                  >
+                    <img
+                      alt="Это картинка товара, но я её не смог вставить"
+                      class="item__img"
+                      src="./img/product/image2.png"
+                    />
+                    <div
+                      class="item__size"
+                    >
+                      <img
+                        alt="тоже не смог"
+                        src="./img/product/2.png"
+                      />
+                      <p>
+                        450
+                      </p>
+                      <p>
+                         
+                        мл
+                      </p>
+                    </div>
+                    <div
+                      class="item__name"
+                    >
+                      <p>
+                        <span>
+                          AOS
+                           
+                        </span>
+                        средство для мытья посуды Crystal
+                      </p>
+                    </div>
+                    <div
+                      class="item__texst"
+                    >
+                      <p>
+                        <span>
+                          Штрихкод:
+                        </span>
+                         
+                        4604049097548
+                      </p>
+                      <p>
+                        <span>
+                          Производитель:
+                        </span>
+                         
+                        Grifon
+                      </p>
+                      <p>
+                        <span>
+                          Бренд:
+                        </span>
+                         
+                        Grifon
+                      </p>
+                    </div>
+                  </div>
+                  <div
+                    class="item__price"
+                  >
+                    <p>
+                      48,7 ₸
+                       
+                    </p>
+                    <button
+                      class="item__btn"
+                    >
+                      В корзину
+                      <img
+                        src="basket.png"
+                      />
+                    </button>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="column"
+              >
+                <div
+                  class="item__wrapper"
+                >
+                  <div
+                    class="item__content"
+                  >
+                    <img
+                      alt="Это картинка товара, но я её не смог вставить"
+                      class="item__img"
+                      src="./img/product/image3.png"
+                    />
+                    <div
+                      class="item__size"
+                    >
+                      <img
+                        alt="тоже не смог"
+                        src="./img/product/2.png"
+                      />
+                      <p>
+                        450
+                      </p>
+                      <p>
+                         
+                        мл
+                      </p>
+                    </div>
+                    <div
+                      class="item__name"
+                    >
+                      <p>
+                        <span>
+                          AOS
+                           
+                        </span>
+                        Ср-во для мытья посуды Апельсин+мята
+                      </p>
+                    </div>
+                    <div
+                      class="item__texst"
+                    >
+                      <p>
+                        <span>
+                          Штрихкод:
+                        </span>
+                         
+                        4604049097548
+                      </p>
+                      <p>
+                        <span>
+                          Производитель:
+                        </span>
+                         
+                        Grifon
+                      </p>
+                      <p>
+                        <span>
+                          Бренд:
+                        </span>
+                         
+                        Grifon
+                      </p>
+                    </div>
+                  </div>
+                  <div
+                    class="item__price"
+                  >
+                    <p>
+                      4,76 ₸
+                       
+                    </p>
+                    <button
+                      class="item__btn"
+                    >
+                      В корзину
+                      <img
+                        src="basket.png"
+                      />
+                    </button>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="column"
+              >
+                <div
+                  class="item__wrapper"
+                >
+                  <div
+                    class="item__content"
+                  >
+                    <img
+                      alt="Это картинка товара, но я её не смог вставить"
+                      class="item__img"
+                      src="./img/product/image4.png"
+                    />
+                    <div
+                      class="item__size"
+                    >
+                      <img
+                        alt="тоже не смог"
+                        src="./img/product/1.png"
+                      />
+                      <p>
+                        1500
+                      </p>
+                      <p>
+                         
+                        г
+                      </p>
+                    </div>
+                    <div
+                      class="item__name"
+                    >
+                      <p>
+                        <span>
+                          BIMAX
+                           
+                        </span>
+                        Порошок стиральный Автомат 100 пятен COMPACT
+                      </p>
+                    </div>
+                    <div
+                      class="item__texst"
+                    >
+                      <p>
+                        <span>
+                          Штрихкод:
+                        </span>
+                         
+                        4604049097548
+                      </p>
+                      <p>
+                        <span>
+                          Производитель:
+                        </span>
+                         
+                        Boyscout
+                      </p>
+                      <p>
+                        <span>
+                          Бренд:
+                        </span>
+                         
+                        Boyscout
+                      </p>
+                    </div>
+                  </div>
+                  <div
+                    class="item__price"
+                  >
+                    <p>
+                      48 ₸
+                       
+                    </p>
+                    <button
+                      class="item__btn"
+                    >
+                      В корзину
+                      <img
+                        src="basket.png"
+                      />
+                    </button>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="column"
+              >
+                <div
+                  class="item__wrapper"
+                >
+                  <div
+                    class="item__content"
+                  >
+                    <img
+                      alt="Это картинка товара, но я её не смог вставить"
+                      class="item__img"
+                      src="./img/product/image1.png"
+                    />
+                    <div
+                      class="item__size"
+                    >
+                      <img
+                        alt="тоже не смог"
+                        src="./img/product/1.png"
+                      />
+                      <p>
+                        15X28
+                      </p>
+                      <p>
+                         
+                        г
+                      </p>
+                    </div>
+                    <div
+                      class="item__name"
+                    >
+                      <p>
+                        <span>
+                          ARIEL
+                           
+                        </span>
+                        Автмат Гель СМС жидкое в растворимых капсулах Liquid Capsules Горный родник
+                      </p>
+                    </div>
+                    <div
+                      class="item__texst"
+                    >
+                      <p>
+                        <span>
+                          Штрихкод:
+                        </span>
+                         
+                        4604049097548
+                      </p>
+                      <p>
+                        <span>
+                          Производитель:
+                        </span>
+                         
+                        Boyscout
+                      </p>
+                      <p>
+                        <span>
+                          Бренд:
+                        </span>
+                         
+                        Boyscout
+                      </p>
+                    </div>
+                  </div>
+                  <div
+                    class="item__price"
+                  >
+                    <p>
+                      4,76 ₸
+                       
+                    </p>
+                    <button
+                      class="item__btn"
+                    >
+                      В корзину
+                      <img
+                        src="basket.png"
+                      />
+                    </button>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="column"
+              >
+                <div
+                  class="item__wrapper"
+                >
+                  <div
+                    class="item__content"
+                  >
+                    <img
+                      alt="Это картинка товара, но я её не смог вставить"
+                      class="item__img"
+                      src="./img/product/image2.png"
+                    />
+                    <div
+                      class="item__size"
+                    >
+                      <img
+                        alt="тоже не смог"
+                        src="./img/product/2.png"
+                      />
+                      <p>
+                        450
+                      </p>
+                      <p>
+                         
+                        мл
+                      </p>
+                    </div>
+                    <div
+                      class="item__name"
+                    >
+                      <p>
+                        <span>
+                          AOS
+                           
+                        </span>
+                        средство для мытья посуды Crystal
+                      </p>
+                    </div>
+                    <div
+                      class="item__texst"
+                    >
+                      <p>
+                        <span>
+                          Штрихкод:
+                        </span>
+                         
+                        4604049097548
+                      </p>
+                      <p>
+                        <span>
+                          Производитель:
+                        </span>
+                         
+                        Paclan
+                      </p>
+                      <p>
+                        <span>
+                          Бренд:
+                        </span>
+                         
+                        Paclan
+                      </p>
+                    </div>
+                  </div>
+                  <div
+                    class="item__price"
+                  >
+                    <p>
+                      48,6 ₸
+                       
+                    </p>
+                    <button
+                      class="item__btn"
+                    >
+                      В корзину
+                      <img
+                        src="basket.png"
+                      />
+                    </button>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="column"
+              >
+                <div
+                  class="item__wrapper"
+                >
+                  <div
+                    class="item__content"
+                  >
+                    <img
+                      alt="Это картинка товара, но я её не смог вставить"
+                      class="item__img"
+                      src="./img/product/image3.png"
+                    />
+                    <div
+                      class="item__size"
+                    >
+                      <img
+                        alt="тоже не смог"
+                        src="./img/product/2.png"
+                      />
+                      <p>
+                        450
+                      </p>
+                      <p>
+                         
+                        мл
+                      </p>
+                    </div>
+                    <div
+                      class="item__name"
+                    >
+                      <p>
+                        <span>
+                          AOS
+                           
+                        </span>
+                        Ср-во для мытья посуды Апельсин+мята
+                      </p>
+                    </div>
+                    <div
+                      class="item__texst"
+                    >
+                      <p>
+                        <span>
+                          Штрихкод:
+                        </span>
+                         
+                        4604049097548
+                      </p>
+                      <p>
+                        <span>
+                          Производитель:
+                        </span>
+                         
+                        Paclan
+                      </p>
+                      <p>
+                        <span>
+                          Бренд:
+                        </span>
+                         
+                        Paclan
+                      </p>
+                    </div>
+                  </div>
+                  <div
+                    class="item__price"
+                  >
+                    <p>
+                      46 ₸
+                       
+                    </p>
+                    <button
+                      class="item__btn"
+                    >
+                      В корзину
+                      <img
+                        src="basket.png"
+                      />
+                    </button>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="column"
+              >
+                <div
+                  class="item__wrapper"
+                >
+                  <div
+                    class="item__content"
+                  >
+                    <img
+                      alt="Это картинка товара, но я её не смог вставить"
+                      class="item__img"
+                      src="./img/product/image4.png"
+                    />
+                    <div
+                      class="item__size"
+                    >
+                      <img
+                        alt="тоже не смог"
+                        src="./img/product/1.png"
+                      />
+                      <p>
+                        1500
+                      </p>
+                      <p>
+                         
+                        г
+                      </p>
+                    </div>
+                    <div
+                      class="item__name"
+                    >
+                      <p>
+                        <span>
+                          BIMAX
+                           
+                        </span>
+                        Порошок стиральный Автомат 100 пятен COMPACT
+                      </p>
+                    </div>
+                    <div
+                      class="item__texst"
+                    >
+                      <p>
+                        <span>
+                          Штрихкод:
+                        </span>
+                         
+                        4604049097548
+                      </p>
+                      <p>
+                        <span>
+                          Производитель:
+                        </span>
+                         
+                        Paclan
+                      </p>
+                      <p>
+                        <span>
+                          Бренд:
+                        </span>
+                         
+                        Нэфис
+                      </p>
+                    </div>
+                  </div>
+                  <div
+                    class="item__price"
+                  >
+                    <p>
+                      48,76 ₸
+                       
+                    </p>
+                    <button
+                      class="item__btn"
+                    >
+                      В корзину
+                      <img
+                        src="basket.png"
+                      />
+                    </button>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="column"
+              >
+                <div
+                  class="item__wrapper"
+                >
+                  <div
+                    class="item__content"
+                  >
+                    <img
+                      alt="Это картинка товара, но я её не смог вставить"
+                      class="item__img"
+                      src="./img/product/image1.png"
+                    />
+                    <div
+                      class="item__size"
+                    >
+                      <img
+                        alt="тоже не смог"
+                        src="./img/product/1.png"
+                      />
+                      <p>
+                        15X28
+                      </p>
+                      <p>
+                         
+                        г
+                      </p>
+                    </div>
+                    <div
+                      class="item__name"
+                    >
+                      <p>
+                        <span>
+                          ARIEL
+                           
+                        </span>
+                        Автмат Гель СМС жидкое в растворимых капсулах Liquid Capsules Горный родник
+                      </p>
+                    </div>
+                    <div
+                      class="item__texst"
+                    >
+                      <p>
+                        <span>
+                          Штрихкод:
+                        </span>
+                         
+                        4604049097548
+                      </p>
+                      <p>
+                        <span>
+                          Производитель:
+                        </span>
+                         
+                        Нэфис
+                      </p>
+                      <p>
+                        <span>
+                          Бренд:
+                        </span>
+                         
+                        Нэфис
+                      </p>
+                    </div>
+                  </div>
+                  <div
+                    class="item__price"
+                  >
+                    <p>
+                      48,76 ₸
+                       
+                    </p>
+                    <button
+                      class="item__btn"
+                    >
+                      В корзину
+                      <img
+                        src="basket.png"
+                      />
+                    </button>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="column"
+              >
+                <div
+                  class="item__wrapper"
+                >
+                  <div
+                    class="item__content"
+                  >
+                    <img
+                      alt="Это картинка товара, но я её не смог вставить"
+                      class="item__img"
+                      src="./img/product/image2.png"
+                    />
+                    <div
+                      class="item__size"
+                    >
+                      <img
+                        alt="тоже не смог"
+                        src="./img/product/2.png"
+                      />
+                      <p>
+                        450
+                      </p>
+                      <p>
+                         
+                        мл
+                      </p>
+                    </div>
+                    <div
+                      class="item__name"
+                    >
+                      <p>
+                        <span>
+                          AOS
+                           
+                        </span>
+                        средство для мытья посуды Crystal
+                      </p>
+                    </div>
+                    <div
+                      class="item__texst"
+                    >
+                      <p>
+                        <span>
+                          Штрихкод:
+                        </span>
+                         
+                        4604049097548
+                      </p>
+                      <p>
+                        <span>
+                          Производитель:
+                        </span>
+                         
+                        AOS
+                      </p>
+                      <p>
+                        <span>
+                          Бренд:
+                        </span>
+                         
+                        Булгари Грин
+                      </p>
+                    </div>
+                  </div>
+                  <div
+                    class="item__price"
+                  >
+                    <p>
+                      48,76 ₸
+                       
+                    </p>
+                    <button
+                      class="item__btn"
+                    >
+                      В корзину
+                      <img
+                        src="basket.png"
+                      />
+                    </button>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="column"
+              >
+                <div
+                  class="item__wrapper"
+                >
+                  <div
+                    class="item__content"
+                  >
+                    <img
+                      alt="Это картинка товара, но я её не смог вставить"
+                      class="item__img"
+                      src="./img/product/image3.png"
+                    />
+                    <div
+                      class="item__size"
+                    >
+                      <img
+                        alt="тоже не смог"
+                        src="./img/product/2.png"
+                      />
+                      <p>
+                        450
+                      </p>
+                      <p>
+                         
+                        мл
+                      </p>
+                    </div>
+                    <div
+                      class="item__name"
+                    >
+                      <p>
+                        <span>
+                          AOS
+                           
+                        </span>
+                        Ср-во для мытья посуды Апельсин+мята
+                      </p>
+                    </div>
+                    <div
+                      class="item__texst"
+                    >
+                      <p>
+                        <span>
+                          Штрихкод:
+                        </span>
+                         
+                        4604049097548
+                      </p>
+                      <p>
+                        <span>
+                          Производитель:
+                        </span>
+                         
+                        AOS
+                      </p>
+                      <p>
+                        <span>
+                          Бренд:
+                        </span>
+                         
+                        Булгари Грин
+                      </p>
+                    </div>
+                  </div>
+                  <div
+                    class="item__price"
+                  >
+                    <p>
+                      48,76 ₸
+                       
+                    </p>
+                    <button
+                      class="item__btn"
+                    >
+                      В корзину
+                      <img
+                        src="basket.png"
+                      />
+                    </button>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="column"
+              >
+                <div
+                  class="item__wrapper"
+                >
+                  <div
+                    class="item__content"
+                  >
+                    <img
+                      alt="Это картинка товара, но я её не смог вставить"
+                      class="item__img"
+                      src="./img/product/image4.png"
+                    />
+                    <div
+                      class="item__size"
+                    >
+                      <img
+                        alt="тоже не смог"
+                        src="./img/product/1.png"
+                      />
+                      <p>
+                        1500
+                      </p>
+                      <p>
+                         
+                        г
+                      </p>
+                    </div>
+                    <div
+                      class="item__name"
+                    >
+                      <p>
+                        <span>
+                          BIMAX
+                           
+                        </span>
+                        Порошок стиральный Автомат 100 пятен COMPACT
+                      </p>
+                    </div>
+                    <div
+                      class="item__texst"
+                    >
+                      <p>
+                        <span>
+                          Штрихкод:
+                        </span>
+                         
+                        4604049097548
+                      </p>
+                      <p>
+                        <span>
+                          Производитель:
+                        </span>
+                         
+                        AOS
+                      </p>
+                      <p>
+                        <span>
+                          Бренд:
+                        </span>
+                         
+                        Нэфис
+                      </p>
+                    </div>
+                  </div>
+                  <div
+                    class="item__price"
+                  >
+                    <p>
+                      48,76 ₸
+                       
+                    </p>
+                    <button
+                      class="item__btn"
+                    >
+                      В корзину
+                      <img
+                        src="basket.png"
+                      />
+                    </button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <footer
+        class="footer"
+      >
+        <div
+          class="container"
+        >
+          <div
+            class="footer__row"
+          >
+            <div
+              class="footer_colum1"
+            >
+              <img
+                alt=""
+                class="footer__leibl"
+                src="logo.png"
+              />
+              <div
+                class="footer__text"
+              >
+                Компания «Султан» — снабжаем розничные магазины товарами
+                <br />
+                "под ключ" в Кокчетаве и Акмолинской области
+              </div>
+              <p>
+                Подпишись на скидки и акции
+              </p>
+              <div
+                class="wrapper__input"
+              >
+                <input
+                  class="footer__imput"
+                  placeholder="Введите ваш E-mail"
+                  type="text"
+                />
+                <div
+                  class="imput__go"
+                >
+                  <div />
+                </div>
+              </div>
+            </div>
+            <div
+              class="footer__colum2"
+            >
+              <h3>
+                Меню сайта:
+              </h3>
+              <a
+                href="/"
+              >
+                О компании
+              </a>
+              <a
+                href="/"
+              >
+                Доставка и оплата
+              </a>
+              <a
+                href="/"
+              >
+                Возврат
+              </a>
+              <a
+                href="/"
+              >
+                Контакты
+              </a>
+            </div>
+            <div
+              class="footer__colum3"
+            >
+              <h3>
+                Категории:
+              </h3>
+              <a
+                href="/"
+              >
+                Бытовая химия
+              </a>
+              <a
+                href="/"
+              >
+                Косметика и гигиена
+              </a>
+              <a
+                href="/"
+              >
+                Товары для дома
+              </a>
+              <a
+                href="/"
+              >
+                Товары для детей и мам
+              </a>
+              <a
+                href="/"
+              >
+                Посуда
+              </a>
+            </div>
+            <div
+              class="footer__colum4"
+            >
+              <h3>
+                Скачать прайс-лист:
+              </h3>
+              <button
+                class="footerBtn__price"
+              >
+                Прайс-лист
+                <img
+                  src="imgLoader.png"
+                />
+              </button>
+              <p>
+                Связь в мессенджерах:
+              </p>
+              <div
+                class="footer__contacts"
+              >
+                <a
+                  href="/"
+                >
+                  <div
+                    class="logo__watsap"
+                  >
+                    <img
+                      alt=""
+                      src="logo1.png"
+                    />
+                  </div>
+                </a>
+                <a
+                  href="/"
+                >
+                  <div>
+                    <img
+                      alt=""
+                      src="logo2.png"
+                    />
+                  </div>
+                </a>
+              </div>
+            </div>
+            <div
+              class="footer__colum5"
+            >
+              <h3>
+                Контакты:
+              </h3>
+              <div
+                class="textInfo"
+              >
+                <a
+                  href="tel:+7(777)490-00-91"
+                >
+                  +7(777)490-00-91
+                </a>
+                <p>
+                  время работы: 9:00-20:00
+                </p>
+                <p>
+                  Заказать звонок
+                </p>
+              </div>
+              <div
+                class="footer__mail"
+              >
+                <a
+                  href="/"
+                >
+                  opt.sultan@mail.ru
+                </a>
+                <p>
+                  На связи в любое время
+                </p>
+              </div>
+              <div
+                class="footer__payment"
+              >
+                <a
+                  href="/"
+                >
+                  <img
+                    alt=""
+                    src="Visa1.png"
+                  />
+                </a>
+                <a
+                  href="/"
+                >
+                  <img
+                    alt=""
+                    src="Visa2.png"
+                  />
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

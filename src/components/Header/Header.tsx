@@ -41,20 +41,6 @@ export const Header: FC = () => {
             <p>Корзина</p>
             <p className={cl.price}> 0 ₸ </p>
           </div>
-
-          {/* <div>
-        {cartItem.map((item) => (
-          <div key={item.count}>
-            <img className="" src={item.imagePath} alt={item.name} />
-            <div>
-              <div>{item.name}</div>
-              <div>
-                `${item.count} x ${item.price}`
-              </div>
-            </div>
-          </div>
-        ))}
-      </div> */}
         </div>
       </div>
     </div>
